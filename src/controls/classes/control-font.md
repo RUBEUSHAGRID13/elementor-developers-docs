@@ -70,7 +70,7 @@ When using this control, the `type` should be set to `\Elementor\Controls_Manage
 			</td>
 			<td><code>array</code></td>
 			<td></td>
-			<td>An associative array of available font groups.</td>
+			<td>An associative array of available font groups. Please provide example like in the options above</td>
 		</tr>
 		<tr>
 			<td><code>default</code></td>
